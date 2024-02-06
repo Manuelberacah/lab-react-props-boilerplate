@@ -1,0 +1,17 @@
+
+*{
+  text-align: center;
+}
+
+div img{
+  height: 96vh;
+  width: 49vw;
+}
+
+#container{
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  column-gap: 10px;
+  row-gap: 10px;
+
+}
